@@ -1,2 +1,2 @@
 # Start-up
-Hamkorlik asosida yolga qoyilgan start uployiha
+Hamkorlik asosida yolga qoyilgan start up loyiha
